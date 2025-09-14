@@ -268,7 +268,7 @@ i.user-icon {
     background: var(--color-gpt-icon);
 }
 
-.user-menu {
+.user-menu { margin-bottom: 30px;
     position: relative;
     border-top: 1px solid var(--color-border1);
 }
@@ -692,5 +692,8 @@ main {
     
     padding: 0 0 30px 0;
    
+}
+.user-menu {
+    margin-bottom: 70px;
 }
 }
