@@ -168,7 +168,7 @@ useEffect(() => {
             <i className="user-icon">u</i> username <i className="fa fa-ellipsis dots"></i>
           </button>
           <ul>
-            <li><button>My plan</button></li>
+            <li><button><a style={{textDecoration:"none",color:"white"}} target="_blank" href="https://sahibzadaportfolio.netlify.app/">About Developer</a></button></li>
             <li><button>Custom instructions</button></li>
             <li><button>Settings & Beta</button></li>
             <li><button>Log out</button></li>
