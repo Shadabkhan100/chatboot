@@ -1,6 +1,6 @@
 "use client";
 
-import ChatGPT from "@/components/MyNewUI/chatGPT";
+import ChatGPT from "@/components/MyNewUI/ChatGPT";
 
 import { useParams } from "next/navigation";
 import { useEffect, useState } from "react";

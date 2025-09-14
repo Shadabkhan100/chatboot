@@ -9,9 +9,6 @@ const nextConfig = {
   typescript: {
     ignoreBuildErrors: true,
   },
-
-  // 👇 makes static build like CRA
-  output: "export",
 };
 
 module.exports = nextConfig;
